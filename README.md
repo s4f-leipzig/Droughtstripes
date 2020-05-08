@@ -10,10 +10,10 @@ This code creates droughtstipes from data of the Deutsche Wetterdienst (DWD) for
 The code is written in Python3 but can be easily adjusted to Python2.7
 
 ## REQUIRED PYTHON PACKAGES
-numpy
-matplotlib
-pandas
-urllib
+numpy  
+matplotlib  
+pandas  
+urllib  
 
 
 ## MANUAL ADJUSTMENTS TO BE MADE WHEN USING THIS CODE
