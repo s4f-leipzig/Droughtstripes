@@ -1,4 +1,4 @@
-#DROUGHTSTRIPES (Duerrestreifen)
+# DROUGHTSTRIPES (Duerrestreifen)
 
 Droughtstripes show the precipitation anomaly for each year (or a specific month of a year) in comparison to the reference period (here: 1971 - 2000). The idea is based on the warming stripes created by Ed Hawkins ([https://showyourstripes.info/faq]) and shall show the effects of the climate crisis on precipitation.
 
@@ -6,17 +6,17 @@ This code creates droughtstipes from data of the Deutsche Wetterdienst (DWD) for
 #EXAMPLE
 
 
-#PREREQUISITS
+# PREREQUISITS
 The code is written in Python3 but can be easily adjusted to Python2.7
 
-#REQUIRED PYTHON PACKAGES
+# REQUIRED PYTHON PACKAGES
 numpy
 matplotlib
 pandas
 urllib
 
 
-#MANUAL ADJUSTMENTS TO BE MADE WHEN USING THIS CODE
+# MANUAL ADJUSTMENTS TO BE MADE WHEN USING THIS CODE
 ## Mandatory
 1. chose month you want to plot (line 18)
 2. chose local file path to store raw data as txt-file (line 20)
@@ -28,5 +28,5 @@ urllib
 3. adjust the limits of the colorbar by chosing different standard deviations
 
 
-#AUTHORS
+# AUTHORS
 Scientists for Future Leipzig
