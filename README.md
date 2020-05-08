@@ -5,6 +5,7 @@ Droughtstripes show the precipitation anomaly for each year (or a specific month
 This code creates droughtstipes from data of the Deutsche Wetterdienst (DWD) for a selectable month of the year. You can chose to create a plot for as many federal states as you want or for the whole country.
 
 # EXAMPLE
+Droughtstripes for Germany and for each April in 1881 - 2020, brown = negative anomaly (less precipitation than average), turquoise = positive anomaly (more precipitation than average).
 ![Droughtstripes for April 1881 - 2020 for Germany](https://github.com/s4f-leipzig/Droughtstripes/blob/master/stripes_Deutschland_04_1881-2020.jpg)
 
 ## PREREQUISITS
