@@ -3,8 +3,9 @@
 Droughtstripes show the precipitation anomaly for each year (or a specific month of a year) in comparison to the reference period (here: 1971 - 2000). The idea is based on the warming stripes created by Ed Hawkins ([https://showyourstripes.info/faq]) and shall show the effects of the climate crisis on precipitation.
 
 This code creates droughtstipes from data of the Deutsche Wetterdienst (DWD) for a selectable month of the year. You can chose to create a plot for as many federal states as you want or for the whole country.
-#EXAMPLE
 
+# EXAMPLE
+![Droughtstripes for April 1881 - 2020 for Germany](https://github.com/s4f-leipzig/Droughtstripes/blob/master/stripes_Deutschland_04_1881-2020.jpg)
 
 ## PREREQUISITS
 The code is written in Python3 but can be easily adjusted to Python2.7
