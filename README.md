@@ -31,5 +31,4 @@ urllib
 
 
 ## Authors
-Scientists for Future Leipzig <br>
-@Stef-Firestone @FrydayNext
+Scientists for Future Leipzig
