@@ -32,7 +32,7 @@ def custom_div_cmap(numcolors=256, name='custom_div_cmap',colors=['saddlebrown',
 
 
 ### RETRIEVE DATA FROM DWD 
-#link to DWD-ftp server
+#link to DWD server
 link = "https://opendata.dwd.de/climate_environment/CDC/regional_averages_DE/monthly/precipitation/regional_averages_rr_"+month+".txt"
 #retrieve data and cleanup !for Python2.7 comment out lines 39, 40 and uncomment lines 41, 42
 precip_raw = urllib.request.urlretrieve(link, local)
